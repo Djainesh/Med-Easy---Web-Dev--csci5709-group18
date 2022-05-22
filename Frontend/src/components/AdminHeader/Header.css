@@ -1,0 +1,42 @@
+.Brand {
+  font-size: 30px !important;
+
+}
+
+.App-logo {
+  height: 08vmin;
+  pointer-events: none;
+  align-items: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 4s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#Buttonadmin {
+  font-size: 15px;
+  width: 220px;
+  height: 50px;
+  margin-top: 0px;
+}
+
+#navadmin {
+  justify-content: right;
+  /* float: ; */
+  /* gap: 2rem; */
+  /* grid-auto-flow: column; */
+  /* padding: 10px; */
+  /* margin: 40px 40px 40px 40px; */
+}

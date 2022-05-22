@@ -1,0 +1,124 @@
+
+
+.checkoutContainer {
+    font-family: 'Hind Siliguri', sans-serif;
+    width: 50% !important;
+    margin-left: 30%;
+}   
+
+.Brand {
+    font-size: 30px !important;
+
+}
+
+
+
+
+.checkoutButton {
+    border : #35858B !important;
+    background-color: #35858B !important;
+}
+
+
+.dropdown-content:hover{
+    border : none !important;
+    background-color: #35858B !important;
+    font-size: 20px !important;
+    outline:none !important;
+}
+
+.dropbtn {
+    background-color: #072227 !important;
+    color: white !important;
+    font-size: 20px !important;
+    border: none !important;
+    outline:none !important;
+}
+
+.dropdown {
+    position: relative !important;
+    display: inline-block !important;
+    background-color: #35858B !important;
+    border: none !important;
+    font-size: 20px !important;
+    outline:none !important;
+    transition: all 100ms ease-in-out !important;
+}
+
+.dropdown-content a {
+    color: black !important;
+    text-decoration: none !important;
+    display: block !important;
+    outline:none !important;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: white;}
+
+
+.rowcustom {
+    width: 80% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.errorMessage {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-size: 12px;
+}
+
+.imagemod {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+
+.pcrButton {
+    color: white !important;
+    text-decoration: none !important;
+    display: block !important;
+    outline:none !important;
+    background-color: #072227 !important;
+    font-size: 20px !important;
+    height:42px!important;
+    width: 250px;
+    
+}
+
+.search {
+    width: 50% !important;
+}
+
+.searchButton {
+    background-color: white !important;
+}
+
+.navLinkContent {
+    color: black !important;
+}
+
+.checksearch{
+    position: relative;
+    display: flex !important;
+    justify-content: center !important;
+    width: 50% !important;
+    align-items: center !important;
+    padding: 10px !important;
+    margin-right: 22%;
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-wrap {
+    flex: 1;
+}

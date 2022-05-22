@@ -1,0 +1,14 @@
+/**
+ *
+ * @version 1.0
+ * @author [Dhruv Soni](dh554152@dal.ca)(Banner ID:-B00867642)
+ */
+
+ /* css for checkout button */
+.centerButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    border: 3px solid rgb(0, 105, 119);
+  }

@@ -1,0 +1,22 @@
+.checkoutHeader {
+    font-family: 'Hind Siliguri', sans-serif;
+    padding-top: 10px;
+    margin-top: 5%;
+}
+
+.checkoutButton {
+    border : #137E88 !important;
+    background-color: #137E88 !important;
+}
+
+.checkoutContainer {
+    font-family: 'Hind Siliguri', sans-serif;
+    width: 70% !important;
+    margin-left: 30%;
+    
+}
+
+.placeButton {
+    border : #137E88 !important;
+    background-color: #137E88 !important;
+}

@@ -1,0 +1,40 @@
+.CustomNavbar {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    background-image: linear-gradient(to right, #1A374D , #11999E 60%, #E4F9F5);
+    height: 80px;
+    font-size: 20px;
+}
+/* (to right,#1A374D,#6998AB); */
+
+.checksearch{
+    position: relative;
+    display: flex !important;
+    justify-content: center !important;
+    width: 50% !important;
+    align-items: center !important;
+    padding: 10px !important;
+    margin-right: 22%;
+}
+
+
+.navLinkContent {
+    color: black !important;
+}   
+
+.LogoContainer{
+    width: 30%;
+    height: 80%;
+}
+
+.LogoContainer img{
+    width: 80%;
+    height: auto;
+}
+
+.navBarButton{
+    border-radius: 20px 2px 20px 2px !important;
+    background: "#1A374D" !important;
+    color: "#fff" !important;
+    font-size: "14px" !important;
+}
+

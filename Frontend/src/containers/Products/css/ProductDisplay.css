@@ -1,0 +1,36 @@
+/* Author:jainesh Ketan Desai , this file contains css Styling for the the rating and review featur */
+.rating {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  position: center;
+  width: 30%;
+  height: 10%;
+  border-radius: 8px;
+  padding: 20px 40px;
+  margin: 30px;
+  box-shadow: 0 10px 25px rgba(92, 99, 105, 0.2);
+  float: left;
+}
+
+.button {
+  background-color: #13878f;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.ratingandreviewboxforcomment {
+  float: right;
+  width: 35%;
+  height: 10%;
+  margin-top: 20px;
+}

@@ -1,0 +1,88 @@
+/* @version 1.0 @author [Neelay Goswami](nl339853@dal.ca) */
+
+.prod {
+  gap: 1rem;
+  grid-auto-flow: column;
+}
+
+.rowone {
+  flex-direction: row-reverse;
+}
+
+.bodyone {
+  flex-direction: row-reverse;
+  justify-content: left;
+  display: grid;
+  float: left;
+  gap: 2rem;
+  grid-auto-flow: column;
+  padding: 50px;
+  margin: 40px;
+  border: 1px solid rgb(15, 15, 15);
+  width: auto;
+  height: 700px;
+}
+
+.responsiveone {
+  /* width: 50%;
+    height: auto; */
+  width: 250px;
+  height: 250px;
+}
+
+#Button {
+  background-color: #13878f;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 200px;
+}
+
+#Buttontwo {
+  background-color: #13878f;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 30px 10px 10px 46px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 300px;
+  height: 80px;
+}
+
+#Buttonthree {
+  background-color: #13878f;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px 2px 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 100%;
+  height: 80px;
+}
+
+
+.move {}
+
+#grid {
+  padding: 4px 4px;
+}
